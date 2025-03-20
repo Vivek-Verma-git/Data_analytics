@@ -60,5 +60,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, contact [your email] or visit [your GitHub profile].
+For any inquiries, contact vivekkumar79756@gmail.com or visit https://github.com/Vivek-Verma-git .
 
